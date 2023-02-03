@@ -21,7 +21,7 @@ git clone https://github.com/OC-ComputerScience/student-frontend-vue3.git
 
 4. Test the project.
     - http://localhost/studentapp/student-frontend-JS/student-list.html
-    - You should see the application running with data on your screen.
+    - You should see the project running with data on your screen.
 
 ## Project Setup for your AWS Instance
 1. Open **Filezilla** and navigate to **var/www/html/** on your AWS instance.
@@ -32,4 +32,4 @@ git clone https://github.com/OC-ComputerScience/student-frontend-vue3.git
 
 4. Test the project.
     - http://**your instance**/studentapp/student-frontend-JS/student-list.html
-    - You should see the application running with data on your screen.
+    - You should see the project running with data on your screen.
