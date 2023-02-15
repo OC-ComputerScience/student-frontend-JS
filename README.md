@@ -10,7 +10,7 @@ This application allows users to create and maintain a list of students. Please 
 
 1. Clone the project into your **XAMPP/xamppfiles/htdocs/studentapp** directory.
 ```
-git clone https://github.com/OC-ComputerScience/student-frontend-vue3.git
+git clone https://github.com/OC-ComputerScience/student-frontend-JS.git
 ```
 
 2. Make sure **Apache** and **MySQL** are running.
